@@ -19,6 +19,10 @@ Light and Air flow are an important Aspect.
  Important Notes: Consider plumbing pipes to pass through Mangalore Tile Lintels.
 
  # Ventilation
+   how can we design functional ventilator that will enable hotair/cold air circulation.
+
+ # Windows 
+   Possiblity of wood reuse and integrated window steel and attached wood window. Refer the design.   
 
  # Kitchen 
  Parallel Counter Kitchen with 6 ft between counters , 15 ft+ in length. 
@@ -50,10 +54,10 @@ Simple devoid of any instruments/eletricals , simple and plain. Water heating du
 
 # Open Items
 Plan the electrical and plumbing ahead of time.
-Concealed beams vs Exposed beams
-Can we break monotone of bricks in some interior with small and subtle blend other natural materials. changes .
+Concealed beams vs Exposed beams vs Composite Columns and Composite Beams
+Can we break monotone of bricks in some interior with small and subtle blend other natural materials. changes . - Not mandatory.
 Can we have no pointing of bricks done , as it needs to subtle not chest thumpingly say I'm brick wall.
-Compressed blocks wth varnish on inside and silicone coating on outside.
+Compressed blocks wth varnish on inside and silicone coating on outside().
 segregating sewage into grey and black.
 rain water harvest to borewell /sump .
 utilizing the existing slope of plot.
