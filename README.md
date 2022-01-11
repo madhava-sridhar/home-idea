@@ -53,14 +53,14 @@ preferable size ~ 30 x 15 , 6.5 - 7 ft high.  floor to roof smaller width window
 Simple devoid of any instruments/eletricals , simple and plain. Water heating duties delegated to Solar and heatpump.
 
 # Open Items
-Plan the electrical and plumbing ahead of time.
-Concealed beams vs Exposed beams vs Composite Columns and Composite Beams
-Can we break monotone of bricks in some interior with small and subtle blend other natural materials. changes . - Not mandatory.
-Can we have no pointing of bricks done , as it needs to subtle not chest thumpingly say I'm brick wall.
-Compressed blocks wth varnish on inside and silicone coating on outside().
-segregating sewage into grey and black.
-rain water harvest to borewell /sump .
-utilizing the existing slope of plot.
+Plan the electrical and plumbing ahead of time.  
+Concealed beams vs Exposed beams vs Composite Columns and Composite Beams  
+Can we break monotone of bricks in some interior with small and subtle blend other natural materials. changes . - Not mandatory.  
+Can we have no pointing of bricks done , as it needs to subtle not chest thumpingly say I'm brick wall.  
+Compressed blocks wth varnish on inside and silicone coating on outside().  
+segregating sewage into grey and black.  
+rain water harvest to borewell /sump .  
+utilizing the existing slope of plot.  
 
-Solar Heaters and Panels stick like sore thumb since they are not planned for , can they be integral part of structure.
+Solar Heaters and Panels stick like sore thumb since they are not planned for , can they be integral part of structure.  
 
