@@ -72,7 +72,7 @@ Solar Heaters and Panels stick like sore thumb since they are not planned for , 
 
 # Stair Case
  
-Explore possibility of do away with RCC Concrete Stair uses , possibly replace with supports integrated into wall , reused wood making the steps.
+Explore possibility of doing away with RCC Concrete Stair uses , possibly replace with supports integrated into wall , reused wood making the steps.
 
 # Compound wall 
 Explore possibility of using construction rubble either using rubble bricks or mudcrete
