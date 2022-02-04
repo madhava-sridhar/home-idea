@@ -22,7 +22,7 @@ Light and Air flow are an important Aspect.
    how can we design functional ventilator that will enable hotair/cold air circulation.
 
  # Windows 
-   Possiblity of wood reuse and integrated window steel and attached wood window. Refer the design.  
+   Possiblity of wood reuse and integrated window steel and attached(read simply bolted to bricks) wood window. Refer the design.  
    
    ![Window Design](scan/window-design.jpeg?raw=true "Alternate Window Design")
 
