@@ -68,5 +68,5 @@ Solar Heaters and Panels stick like sore thumb since they are not planned for , 
 
 # Composite Column
 
-[Composite Column](scan/composite-column.jpeg?raw=true "Composte Column with Regular bricks")
+![Composite Column](scan/composite-column.jpeg?raw=true "Composte Column with Regular bricks")
 
