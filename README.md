@@ -22,7 +22,9 @@ Light and Air flow are an important Aspect.
    how can we design functional ventilator that will enable hotair/cold air circulation.
 
  # Windows 
-   Possiblity of wood reuse and integrated window steel and attached wood window. Refer the design.   
+   Possiblity of wood reuse and integrated window steel and attached wood window. Refer the design.  
+   
+   ![Window Design](scan/window-design.jpeg?raw=true "Alternate Window Design")
 
  # Kitchen 
  Parallel Counter Kitchen with 6 ft between counters , 15 ft+ in length. 
@@ -63,4 +65,8 @@ rain water harvest to borewell /sump .
 utilizing the existing slope of plot.  
 
 Solar Heaters and Panels stick like sore thumb since they are not planned for , can they be integral part of structure.  
+
+# Composite Column
+
+[Composite Column](scan/composite-column.jpeg?raw=true "Composte Column with Regular bricks")
 
