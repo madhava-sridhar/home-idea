@@ -70,3 +70,7 @@ Solar Heaters and Panels stick like sore thumb since they are not planned for , 
 
 ![Composite Column](scan/composite-column.jpeg?raw=true "Composte Column with Regular bricks")
 
+# Stair Case
+ 
+Explore possibility of do away with RCC Concrete Stair uses , possibly replace with supports integrated into wall , reused wood making the steps.
+
