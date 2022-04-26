@@ -49,7 +49,7 @@ Light and Air flow are an important Aspect.
 
 
 # Garage 
-preferable size ~ 30 x 15 , 6.5 - 7 ft high.  floor to roof smaller width windows possibly from recycled wood and glass.
+preferable size ~ 30 x 15 , 7.5 - 8 ft high.  floor to roof smaller width windows possibly from recycled wood and glass.
 
 # BathRoom 
 Simple devoid of any instruments/eletricals , simple and plain. Water heating duties delegated to Solar and heatpump.
