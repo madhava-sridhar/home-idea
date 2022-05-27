@@ -64,7 +64,7 @@ segregating sewage into grey and black.
 rain water harvest to borewell /sump .  
 utilizing the existing slope of plot.  
 
-Solar Heaters and Panels stick like sore thumb since they are not planned for , can they be integral part of structure.  
+Solar Heaters and Panels stick out like sore thumb since they are not planned for , can they be integral part of structure.  
 
 # Composite Column
 
